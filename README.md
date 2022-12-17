@@ -1,6 +1,6 @@
 # Debate Tournament
 
-I built 
+These notebooks were written to manage the logistics of a speech and debate tournament with ~100 students competing in 5 different events. Over the course of a day, over 1,250 ballots were processed for 22 different rounds. 
 
 ## Purpose & Functionality
 
