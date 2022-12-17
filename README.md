@@ -28,3 +28,6 @@ The speech tournament was a bit more complicated. Because events were scheduled 
 ### Next Steps
 
 This project was designed to fit the precise needs of the specific tournament I was running. Future modifications will be made to make the functions generalize better. Additionally, the scheme for finding semifinalists could be implemented better, which will include adding a way to break ties in student ranks. This will likely require a different way of storing results. Finally, for the debate tournament, currently matchups are found using randomness and ensuring there aren't repeat or intra-school matchups. This would be better modelled as a constraint satisfaction problem where the most constrained team is assigned a matchup first. 
+
+I will also likely move over from notebooks to regular .py files. 
+
