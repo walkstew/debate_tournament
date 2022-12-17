@@ -1,1 +1,7 @@
-# debate_tournament
+# Debate Tournament
+
+## Files
+
+## Functionality
+
+### Next Steps
